@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist>
+	<players>
+		<max>10</max>
+		<min>2</min>
+	</players>
+	<arenas>
+		<arena>Arabius</arena>
+		<arena>Defender</arena>
+		<arena>Shipyard</arena>
+		<arena>Waterfall</arena>
+		<arena>Silo</arena>
+		<arena>Hangar</arena>
+		<arena>Streets</arena>
+		<arena>Outrigger</arena>
+	</arenas>
+	<variants>		
+		<variant gametype="Slayer">FFA</variant>
+		<variant gametype="Slayer">FFA_Heavies</variant>
+		<variant gametype="Slayer">FFA_OITC</variant>
+		<variant gametype="Slayer">FFA_Thunderdome</variant>
+		<variant gametype="Slayer">FFA_Eggsellent</variant>
+		<variant gametype="Creeped">FFA</variant>
+		<variant gametype="Creeped">FFA_Blitz</variant>
+	</variants>
+</playlist>

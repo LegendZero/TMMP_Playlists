@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist>
+	<players>
+		<max>10</max>
+		<min>4</min>
+	</players>
+	<arenas>
+		<arena>Arabius</arena>
+		<arena>Defender</arena>
+		<arena>Shipyard</arena>
+		<arena>Waterfall</arena>
+		<arena>Silo</arena>
+		<arena>Hangar</arena>
+		<arena>Streets</arena>
+	</arenas>
+	<variants>
+		<variant gametype="Slayer">Heavies</variant>
+		<variant gametype="Slayer">Slayer</variant>
+		<variant gametype="KC">KillConfirmed</variant>
+		<variant gametype="KC">Attrition</variant>
+	</variants>
+</playlist>
